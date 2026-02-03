@@ -98148,7 +98148,7 @@ $S:618}
 A.ajH.prototype={
 $0(){var s,r,q=this.b,p=q.$1$0(t.xO)
 q=q.$1$0(t.QN)
-s=A.aYj(A.aSJ("%API_URL%",null,null,B.h6))
+s=A.aYj(A.aSJ("https://api.mapapseli.ru/api/v1",null,null,B.h6))
 r=s.O6$
 r.v(r,p)
 r.v(r,q)
@@ -100676,7 +100676,7 @@ J(a){var s=null,r=A.c2(20)
 $.a4()
 return A.yd(r,A.ac0(A.bz(s,new A.bh(new A.at(15,10,15,10),A.bW(A.b([this.c,A.aM(s,20,s),A.ai(""+this.d,s,s,s,A.aH(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.a1,B.q,B.m),s),B.l,B.i_,s,s,s,s,s,s,s,s,s,100),!0,new A.rO(4,4,s)),B.bo)}}
 A.aRQ.prototype={
-$1(a){a.sNJ("%GLITCHTIP_DSN%")
+$1(a){a.sNJ("https://ffa9554b0b354388b5ab1fff2891db6b@app.glitchtip.com/19436")
 a.y1=0.2},
 $S:695}
 A.aRR.prototype={
